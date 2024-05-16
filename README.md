@@ -1,2 +1,2 @@
-# rythms-patttern
-rythms patterns collection
+# rhythms-pattern
+drum machine rhythms patterns collection
